@@ -1,0 +1,3 @@
+Now we have created a folder to add whatever files we want! Just like this one! 
+
+We still have to add this file to the repository so that others can access this. Jarret will be showing you how to do add the file to the reposity 
